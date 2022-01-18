@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html & css
 <!--
 **snowslaura/Snowslaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
