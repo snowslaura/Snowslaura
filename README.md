@@ -1,4 +1,7 @@
 ### Hi there 👋
+![girldeveloper](https://user-images.githubusercontent.com/92411912/176787964-febb9755-358f-444d-be0e-27fddd9ca993.gif)
+
+
 - 🌱 I’m currently learning NodeJS, MongoDB to build APIs.
 <!--
 **snowslaura/Snowslaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
