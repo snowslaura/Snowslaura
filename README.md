@@ -1,4 +1,4 @@
-<div align="center"><b>I'm Laura and I'm a ....</b></div>
+<div align="center"><b>Hello, there!! I'm Laura and I'm a ...</b></div>
 <div align="center" > 
     <img src="https://user-images.githubusercontent.com/92411912/176787964-febb9755-358f-444d-be0e-27fddd9ca993.gif"/>  
 </div>
