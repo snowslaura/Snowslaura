@@ -1,11 +1,18 @@
 <div align="center"><b>Hello, there!! I'm Laura and I'm a ...</b></div>
+<br />
 <div align="center" > 
     <img src="https://user-images.githubusercontent.com/92411912/176787964-febb9755-358f-444d-be0e-27fddd9ca993.gif"/>  
 </div>
+<br />
+
+----
 <div align="center">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=snowslaura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowslaura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<br />
+
+---
 <div align="center"><b>Stacks I am good at:</b></div>
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Laura-Js" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +29,9 @@
     <img align="center" alt="Laura-webpack"  height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
     <img align="center" alt="Laura-webpack"  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
+<br />
+
+----
 <div align="center"><b>Stacks I am preparing to be good at:</b></div>
 <div style="display: inline_block" align="center" ><br>
     <img align="center" alt="Laura-Ts" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,7 +40,10 @@
     <img align="center" alt="Laura-reddis"  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
     <img align="center" alt="Laura-POO"  height="60" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png">
     <img align="center" alt="Laura-ORM"  height="60" src="https://warunipalangoda.files.wordpress.com/2019/04/orm.png">
-</div>  
+</div> 
+<br />
+
+---
 <div align="center" ><b>Contact Me:</b></div>
 <div align="center">    
     <a href = "mailto:lauracmneves@gmail.com"><img  height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
