@@ -1,10 +1,10 @@
-<b>I'm Laura and I'm a ....</b>
-<div > 
+<div align="center"><b>I'm Laura and I'm a ....</b></div>
+<div align="center" > 
     <img src="https://user-images.githubusercontent.com/92411912/176787964-febb9755-358f-444d-be0e-27fddd9ca993.gif"/>  
 </div>
-<div >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snowslaura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowslaura&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=snowslaura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowslaura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
