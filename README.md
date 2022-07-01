@@ -3,13 +3,13 @@
     <img src="https://user-images.githubusercontent.com/92411912/176787964-febb9755-358f-444d-be0e-27fddd9ca993.gif"/>  
 </div>
 <div align="center">
-    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=snowslaura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowslaura&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=snowslaura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowslaura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
- <b>Stacks I am good at:</b> 
-<div style="display: inline_block" ><br>
+<div align="center"><b>Stacks I am good at:</b></div>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="Laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Laura-Ajax" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png">
     <img align="center" alt="Laura-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,8 +26,8 @@
 </div>
 
 
- <b>Stacks I am preparing to be good at:</b>
-<div style="display: inline_block" ><br>
+<div align="center"><b>Stacks I am preparing to be good at:</b></div>
+<div style="display: inline_block" align="center" ><br>
     <img align="center" alt="Laura-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Laura-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img align="center" alt="Laura-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
@@ -38,8 +38,8 @@
 
 
   
-  <b>Contact Me:</b>
-<div>    
+<div align="center" ><b>Contact Me:</b></div>
+<div align="center">    
     <a href = "mailto:lauracmneves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lauracmneves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
