@@ -1,14 +1,15 @@
 <div align="center"><b>Hello, there!! I'm Laura!! </b></div>
 <br />
 <div align="center" >
-    <span><img src="https://user-images.githubusercontent.com/92411912/176787964-febb9755-358f-444d-be0e-27fddd9ca993.gif"/></span> 
     <span>
             👩‍🔬 I'm also a Chemical Engineer;<br /> 
             🐱 I'm a "cat person" and I have 2 kittens;<br />        
             🎯 I dream of one day doing the Camino de Santiago;<br />            
             💻 I'm currently learning NodeJS and data persistence with postgreSQL;<br />         
             💁‍♀️ I want to become polyglot someday; <br />       
-    </span>    
+    </span> 
+    <br />
+    <img  src="https://user-images.githubusercontent.com/92411912/176787964-febb9755-358f-444d-be0e-27fddd9ca993.gif"/>
 </div>
 <br />
 
