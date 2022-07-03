@@ -33,10 +33,12 @@
     <img  align="center" alt="Laura-mongoDB" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
     <img  align="center" alt="Laura-nodeJS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
     <img  align="center" alt="Laura-express" style="color:FFF" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+    <img align="center" alt="Laura-Axios" height="60" src="https://miro.medium.com/max/700/1*NuPc-wv4AqMor-L34WKwjg.png">  
     <img  align="center" alt="Laura-npm" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="center" alt="Laura-ES6"  height="60" src="https://live.staticflickr.com/7306/16407404782_8b9c57eab3_w.jpg">
     <img align="center" alt="Laura-webpack"  height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
     <img align="center" alt="Laura-github"  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+    <img align="center" alt="Laura-vercel"  height="60" src="https://logowik.com/content/uploads/images/t_vercel1868.jpg"> 
 </div>
 <br />
 
