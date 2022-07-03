@@ -36,7 +36,7 @@
     <img  align="center" alt="Laura-npm" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="center" alt="Laura-ES6"  height="60" src="https://live.staticflickr.com/7306/16407404782_8b9c57eab3_w.jpg">
     <img align="center" alt="Laura-webpack"  height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
-    <img align="center" alt="Laura-webpack"  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+    <img align="center" alt="Laura-github"  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
 <br />
 
