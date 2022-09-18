@@ -39,8 +39,11 @@
     <img align="center" alt="Laura-webpack"  height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
     <img align="center" alt="Laura-github"  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
     <img align="center" alt="Laura-vercel"  height="60" src="https://logowik.com/content/uploads/images/t_vercel1868.jpg">
-      <img align="center" alt="Laura-Ajax" height="50" src="https://miro.medium.com/max/806/1*NvPgYjeU1dR4cDlYOBsszA.png">
-    <img align="center" alt="Laura-Ajax" height="50" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg">    
+      <img align="center" alt="Laura-Cypress" height="50" src="https://miro.medium.com/max/806/1*NvPgYjeU1dR4cDlYOBsszA.png">
+    <img align="center" alt="Laura-Jest" height="50" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg">
+    <img align="center" alt="Laura-ORM"  height="60" src="https://warunipalangoda.files.wordpress.com/2019/04/orm.png">
+    <img align="center" alt="Laura-prisma" height="50" src="https://miro.medium.com/max/700/1*MdTvC66EwOO3_fzjJmW3tA.png"> 
+    
 </div>
 <br />
 
@@ -49,10 +52,9 @@
 <div style="display: inline_block" align="center" ><br>
     <img align="center" alt="Laura-Ts" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Laura-docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img align="center" alt="Laura-docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+    <img align="center" alt="Laura-AWS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
     <img align="center" alt="Laura-reddis"  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
-    <img align="center" alt="Laura-POO"  height="60" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png">
-    <img align="center" alt="Laura-ORM"  height="60" src="https://warunipalangoda.files.wordpress.com/2019/04/orm.png">
+    <img align="center" alt="Laura-POO"  height="60" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png">    
 </div> 
 <br />
 
