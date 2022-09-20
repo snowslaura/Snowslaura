@@ -5,7 +5,7 @@
             👩‍🔬 I'm also a Chemical Engineer;<br /> 
             🐱 I'm a "cat person" and I have 2 kittens;<br />        
             🎯 I dream of one day doing the Camino de Santiago;<br />            
-            💻 I'm currently learning integration, unit and e2e tests with jest, supertest, and cypress;<br />         
+            💻 I'm currently learning OOP <br />         
             💁‍♀️ I want to become polyglot someday; <br />       
     </span> 
     <br />
